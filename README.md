@@ -7,6 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 this is a modification
+this is another modification
 
 ### `npm start`
 
